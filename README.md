@@ -1,38 +1,35 @@
-Hi there 👋
-I'm Annissa Pereira, a data scientist passionate about building impactful AI and data-driven solutions.
+## Hi there 👋
 
-🔭 I’m currently working on:
+I'm Annissa Pereire, a data scientist passionate about building impactful AI and analytics solutions.
 
-Predicting California wildfire causes using ensemble machine learning models (Random Forest, XGBoost, LightGBM) and deploying real-time solutions with Flask API.
+- 🔭 I’m currently working on:  
+  - Predicting California wildfire causes using ensemble machine learning models (Random Forest, XGBoost, LightGBM), deployed via Flask API as part of my master’s thesis at UMass Dartmouth.
+  - Developing Study Sphere, a personalized app to support international students, using machine learning and NLP to boost engagement and retention.
 
-Developing Study Sphere, a personalized app leveraging machine learning and NLP to support international student success at UMass Dartmouth.
+- 🌱 I’m currently learning:  
+  - Advanced deep learning algorithms (recently completed certification from DeepLearning.AI & Stanford Online)
+  - Scalable model deployment with Docker, FastAPI, and cloud services (AWS, Azure ML)
 
-🌱 I’m currently learning:
+- 👯 I’m looking to collaborate on:  
+  - Open-source AI/ML projects
+  - Data-driven solutions for education, sustainability, and social impact
 
-Advanced deep learning techniques, scalable model deployment, and cloud-based ML workflows.
+- 🤔 I’m looking for help with:  
+  - Building robust, production-ready NLP pipelines
+  - Best practices for deploying ML models at scale
 
-👯 I’m looking to collaborate on:
+- 💬 Ask me about:  
+  - Machine learning, NLP, data analytics, and end-to-end project deployment
+  - My experience as a graduate data analyst and research intern
 
-Open-source AI projects, NLP applications, and data analytics tools that drive real-world impact.
+- 📫 How to reach me:  
+  - Email: apereira26@umassd.edu
+  - LinkedIn: https://www.linkedin.com/in/annissapereira/
+  
 
-🤔 I’m looking for help with:
+- 😄 Pronouns: she/her
 
-Optimizing large-scale ML models and integrating AI solutions into production environments.
+- ⚡ Fun fact:  
+  - I once built a machine learning model to predict wildfires—just so I could make my trivia nights more statistically significant.
 
-💬 Ask me about:
-
-Machine learning, NLP, time series forecasting, data visualization, and deploying ML models with Docker, FastAPI, and Flask.
-
-📫 How to reach me:
-
-apereira26@umassd.edu
-
-LinkedIn
-
-GitHub
-
-😄 Pronouns: she/her
-
-⚡ Fun fact:
-
-My projects have helped boost student engagement by 15% and improved academic retention by 10% at UMass Dartmouth.
+Let's connect and build something amazing together!
