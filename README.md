@@ -7,7 +7,7 @@ Currently diving deeper into NLP, LLMs, LangChain, autoencoders, neural networks
 Love collaborating on AI solutions in tech and finance  
 Ask me about ML, NLP, analytics, or deploying end-to-end projects!
 
-📫 Reach out: [apereira26@umassd.edu](mailto:apereira26@umassd.edu) | [LinkedIn](https://www.linkedin.com/in/annissapereira/)
+📫 Reach out: [apereira26@umassd.edu](mailto:annissa.p01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/annissapereira/)
 
 ⚡ Fun fact: Built a wildfire predictor—now I dominate trivia night 🔥📊  
 Let’s build something amazing together! 🚀
